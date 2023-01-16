@@ -7,6 +7,6 @@ Ex.:  Status do projeto: Em desenvolvimento.
 Para rodar na sua máquina, digite:
 
 ```
-npm install react 
+node app.js
 ```
 
